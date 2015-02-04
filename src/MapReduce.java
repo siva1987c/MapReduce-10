@@ -1,10 +1,3 @@
-/**
- * class to simulate MapReduce
- * 
- * @author  Gordon S. Novak Jr.
- * @version 18 Nov 08; 24 Nov 08
- */
-
 import java.util.*;
 import java.util.TreeMap;
 import java.util.Scanner;

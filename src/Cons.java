@@ -1,12 +1,3 @@
-/**
- * this class Cons implements a Lisp-like Cons cell
- * 
- * @author  Gordon S. Novak Jr.
- * @version 29 Nov 01; 25 Aug 08; 05 Sep 08; 08 Sep 08; 12 Sep 08; 24 Sep 08
- *          06 Oct 08; 07 Oct 08; 09 Oct 08; 23 Oct 08; 30 Oct 08; 03 Nov 08
- *          11 Nov 09; 18 Nov 08; 20 Nov 08
- */
-
 import java.util.StringTokenizer;
 import java.util.TreeMap;
 import java.util.Random;
